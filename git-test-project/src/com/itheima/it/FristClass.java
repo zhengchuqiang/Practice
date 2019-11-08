@@ -6,10 +6,12 @@ public class FristClass {
         System.out.println("hello world");
         System.out.println("hello world");
         System.out.println("hello world");
+        //hello
     }
 
     public void test(){
         int i =0;
         i +=10;
+        System.out.println(i);
     }
 }
